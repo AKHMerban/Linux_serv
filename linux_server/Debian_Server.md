@@ -3,7 +3,7 @@
 	![NATimages](images/NAT_Network.png)
 	![Adapterimages](/images/Adapter.png)
 - Image of Debian Server 12.7.0 available [here](https://www.debian.org/distrib/)
-	- User: nox
+	- User: merban
 	- Password: 1234
 - Install sudo and get the root privileges for your user:
   1. `su root`
